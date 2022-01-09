@@ -1,9 +1,11 @@
-# Pixt
+Pixt
+====
 A Desktop pixel art editor
 
 Inspired by Aseprite, Paint.NET and others.
 
-### Features:
+Features:
+---------
 
 - Pencil and Eraser tools
 - Customizable Palette (WIP)
@@ -15,7 +17,8 @@ To be added:
 - Animation support
 - Saving and loading in multiple formats
 
-### Compiling
+Compiling
+---------
 
 You'll need SDL2 and SDL2_image installed.
 
